@@ -70,7 +70,7 @@ class DetailViewController: UIViewController, UIPopoverPresentationControllerDel
         popoverVC?.mDatePub.text = "Publish Date:\n\(pubDate)"
     }
 
-    func adaptivePresentationStyle(for controller: UIPresentationController, traitCollection: UITraitCollection) -> UIModalPresentationStyle {
+    func adaptivePresentationStyleForPresentationController(controller: UIPresentationController, traitCollection: UITraitCollection) -> UIModalPresentationStyle {
         return UIModalPresentationStyle.None
     }
     

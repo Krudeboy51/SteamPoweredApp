@@ -17,7 +17,7 @@
 		9455FD4F1DCA413C00A4F7E0 /* XMLParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9455FD4E1DCA413C00A4F7E0 /* XMLParser.swift */; };
 		9455FD511DCA420E00A4F7E0 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9455FD501DCA420E00A4F7E0 /* DetailViewController.swift */; };
 		9455FD531DCA422D00A4F7E0 /* ContainerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9455FD521DCA422D00A4F7E0 /* ContainerViewController.swift */; };
-		9455FD551DCA6CC500A4F7E0 /* PopoverViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9455FD541DCA6CC500A4F7E0 /* PopoverViewController.swift */; };
+		9455FD571DCA798A00A4F7E0 /* PopoverViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9455FD561DCA798A00A4F7E0 /* PopoverViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,7 +54,7 @@
 		9455FD4E1DCA413C00A4F7E0 /* XMLParser.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = XMLParser.swift; sourceTree = "<group>"; };
 		9455FD501DCA420E00A4F7E0 /* DetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		9455FD521DCA422D00A4F7E0 /* ContainerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContainerViewController.swift; sourceTree = "<group>"; };
-		9455FD541DCA6CC500A4F7E0 /* PopoverViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PopoverViewController.swift; path = ../PopoverViewController.swift; sourceTree = "<group>"; };
+		9455FD561DCA798A00A4F7E0 /* PopoverViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PopoverViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,7 +105,7 @@
 		9455FD1F1DCA412600A4F7E0 /* SteamPoweredApp */ = {
 			isa = PBXGroup;
 			children = (
-				9455FD541DCA6CC500A4F7E0 /* PopoverViewController.swift */,
+				9455FD561DCA798A00A4F7E0 /* PopoverViewController.swift */,
 				9455FD201DCA412600A4F7E0 /* AppDelegate.swift */,
 				9455FD221DCA412600A4F7E0 /* MainTableViewController.swift */,
 				9455FD241DCA412600A4F7E0 /* Main.storyboard */,
@@ -272,7 +272,7 @@
 				9455FD211DCA412600A4F7E0 /* AppDelegate.swift in Sources */,
 				9455FD531DCA422D00A4F7E0 /* ContainerViewController.swift in Sources */,
 				9455FD4F1DCA413C00A4F7E0 /* XMLParser.swift in Sources */,
-				9455FD551DCA6CC500A4F7E0 /* PopoverViewController.swift in Sources */,
+				9455FD571DCA798A00A4F7E0 /* PopoverViewController.swift in Sources */,
 				9455FD511DCA420E00A4F7E0 /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
